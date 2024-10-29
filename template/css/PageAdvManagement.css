@@ -1,0 +1,57 @@
+.purchasePageAdvLink:link, .purchasePageAdvLink:visited {
+    background-color: #3b5998;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+	display: inline-block;
+	border-radius: 20px;
+	-moz-border-radius: 20px; /* firefox */
+	-webkit-border-radius: 20px; /* safari, chrome */
+}
+
+
+.purchasePageAdvLink:hover, .purchasePageAdvLink:active {
+    background-color: #3b5998;
+}
+
+.purchasePageAdvH5{
+    font-weight:bold;
+    text-align: center;
+}
+
+#AdvManagementSubitCustomAdv{
+    background-color: #3b5998;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+	display: inline-block;
+	border-radius: 20px;
+	-moz-border-radius: 20px; /* firefox */
+	-webkit-border-radius: 20px; /* safari, chrome */
+    width: 100%;
+}
+
+#AdvManagementSubitRegister{
+    background-color: #3b5998;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+	display: inline-block;
+	border-radius: 20px;
+	-moz-border-radius: 20px; /* firefox */
+    -webkit-border-radius: 20px; /* safari, chrome */
+    width: 100%;
+}
+
+#box-product{
+    padding: 10px;
+    text-align: center;
+    border: 1px;
+}
+
+#PrivacyPayment, #imgPaypal, #buttonPayment{
+    margin-top: 20px;
+}
